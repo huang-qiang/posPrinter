@@ -1,4 +1,5 @@
 ### 热敏打印机型号：YCT-380B
+    在源码环境中，mm编译生成jar包
 ## 1.	PrintManager初始化
 函数原型	| public static void init(Context context)
 :-------:|:--
